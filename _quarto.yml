@@ -4,19 +4,19 @@ project:
     - images/*
 
 website:
-  title: "Nexus: Crowdsourced ML Resources"
+  title: "County Health Rankings & Roadmaps: Crowdsourced county-level health data"
   page-navigation: true
   
-  repo-url: https://github.com/UW-Madison-DataScience/ML-X-Nexus
+  repo-url: https://github.com/County-Health-Rankings-and-Roadmaps
   repo-actions: [edit]
 
   sidebar:
     tools:
       - icon: github
-        href: https://github.com/UW-Madison-DataScience/ML-X-Nexus
+        href: https://github.com/County-Health-Rankings-and-Roadmaps
         text: "GitHub organization"
     # logo: "images/ML+X_Logo_Secondary_Tagline_Transparent.png"
-    logo: "images/ML+X_Logo_Secondary_Transparent.png"
+    logo: "images/CHRR_logo_compressed.png"
 
     pinned: true
     align: center
@@ -88,8 +88,8 @@ website:
 format:
   html:
     theme:
-      light: [cosmo, fonts.scss, theme.scss]
-      #dark: [cosmo, fonts.scss, theme-dark.scss]
+      #light: [cosmo, fonts.scss, theme.scss]
+      dark: [cosmo, fonts.scss, theme-dark.scss]
     toc: true
     code-copy: true
     code-overflow: wrap
