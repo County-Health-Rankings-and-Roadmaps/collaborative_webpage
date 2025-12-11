@@ -10,13 +10,10 @@ CHR&R is committed to creating resources and tools that support community-led ef
 ## Features:
 NEEDS UPDATE 
 Any content (original or external) that can help make the practice of measuring health at the county-level more connected, accessible, efficient, and reproducible is welcome! This includes, but is not limited to:
-
-* 🧠 **Educational materials**: Explore a library of educational materials (workshops, guides, books, videos, etc.) covering a wide range of ML-related topics, tools, and workflows, from foundational concepts to advanced techniques. These materials offer clear explanations, practical examples, and actionable insights to help you navigate the complexities of county-level health indicators. 
-
-* 🧬 **Applications & stories**: Discover a curated collection of blogs, papers, and talks which dive into real-world applications of county-level health and the structural determinants of health. 
-
-* 🛠 **Models, code, and more**: Find useful scripts and datasets that you can leverage for your next project. 
-## Contributing:
+- R package 
+- shiny app 
+- measure calculations
+- other??? 
 
 We welcome contributions! Whether you'd like to share your own guides, best practices, starter notebooks, or collaborate with others to refine existing resources, your contributions are highly valued and appreciated.
 
